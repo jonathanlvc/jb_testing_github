@@ -1,0 +1,7 @@
+videos - played - title
+videos - notes_downloaded
+videos - transcript_sent - title
+logins - access_level
+
+
+CHECK THAT NOTES-DOWNLOADED is LARGER THAN 1
